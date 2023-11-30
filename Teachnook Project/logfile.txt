@@ -1,0 +1,167 @@
+2023-09-07 21:04:30,162 - INFO - Source IP: 3.6.163.125, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53271, Bytes transferred: 54
+2023-09-07 21:04:32,371 - INFO - Source IP: 192.168.1.14, Destination IP: 3.6.163.125, Protocol: TCP, Source Port: 53271, Destination Port: 443, Bytes transferred: 54
+2023-09-07 21:07:38,186 - INFO - Source IP: 52.139.250.209, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53259, Bytes transferred: 54
+2023-09-07 21:07:43,568 - INFO - Source IP: 192.168.1.14, Destination IP: 52.139.250.209, Protocol: TCP, Source Port: 53259, Destination Port: 443, Bytes transferred: 54
+2023-09-07 21:08:48,192 - INFO - Source IP: 192.168.1.14, Destination IP: 152.195.38.76, Protocol: TCP, Source Port: 53613, Destination Port: 80, Bytes transferred: 66
+2023-09-07 21:08:48,220 - INFO - Source IP: 152.195.38.76, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 80, Destination Port: 53613, Bytes transferred: 66
+2023-09-07 21:08:48,220 - INFO - Source IP: 192.168.1.14, Destination IP: 152.195.38.76, Protocol: TCP, Source Port: 53613, Destination Port: 80, Bytes transferred: 120
+2023-09-07 21:08:48,232 - INFO - Source IP: 192.168.1.14, Destination IP: 152.195.38.76, Protocol: TCP, Source Port: 53613, Destination Port: 80, Bytes transferred: 414
+2023-09-07 21:08:48,238 - INFO - Source IP: 152.195.38.76, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 80, Destination Port: 53613, Bytes transferred: 120
+2023-09-07 21:09:42,972 - INFO - Source IP: 34.239.100.113, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53563, Bytes transferred: 54
+2023-09-07 21:10:29,853 - INFO - Source IP: 54.82.94.8, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53660, Bytes transferred: 85
+2023-09-07 21:10:30,233 - INFO - Source IP: 54.82.94.8, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53660, Bytes transferred: 139
+2023-09-07 21:10:30,240 - INFO - Source IP: 192.168.1.14, Destination IP: 54.82.94.8, Protocol: TCP, Source Port: 53660, Destination Port: 443, Bytes transferred: 54
+2023-09-07 21:10:30,242 - INFO - Source IP: 18.161.125.39, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53561, Bytes transferred: 54
+2023-09-07 21:10:30,879 - INFO - Source IP: 18.161.125.39, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53561, Bytes transferred: 108
+2023-09-07 21:10:30,894 - INFO - Source IP: 192.168.1.14, Destination IP: 18.161.125.39, Protocol: TCP, Source Port: 53561, Destination Port: 443, Bytes transferred: 54
+2023-09-07 21:10:30,898 - INFO - Source IP: 44.216.138.20, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53657, Bytes transferred: 85
+2023-09-07 21:10:31,461 - INFO - Source IP: 44.216.138.20, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53657, Bytes transferred: 139
+2023-09-07 21:10:31,469 - INFO - Source IP: 192.168.1.14, Destination IP: 44.216.138.20, Protocol: TCP, Source Port: 53657, Destination Port: 443, Bytes transferred: 54
+2023-09-07 21:10:31,476 - INFO - Source IP: 192.168.1.14, Destination IP: 142.250.25.127, Protocol: UDP, Source Port: 61309, Destination Port: 19302, Bytes transferred: 54
+2023-09-07 21:10:31,483 - INFO - Source IP: 142.250.25.127, Destination IP: 192.168.1.14, Protocol: UDP, Source Port: 19302, Destination Port: 61309, Bytes transferred: 54
+2023-09-07 21:10:32,286 - INFO - Source IP: 13.107.42.14, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53573, Bytes transferred: 54
+2023-09-07 21:10:32,299 - INFO - Source IP: 13.107.42.14, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53573, Bytes transferred: 108
+2023-09-07 21:10:32,302 - INFO - Source IP: 192.168.1.14, Destination IP: 13.107.42.14, Protocol: TCP, Source Port: 53573, Destination Port: 443, Bytes transferred: 54
+2023-09-07 21:10:32,302 - INFO - Source IP: 104.26.5.66, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53574, Bytes transferred: 54
+2023-09-07 21:10:35,333 - INFO - Source IP: 192.168.1.14, Destination IP: 104.26.5.66, Protocol: TCP, Source Port: 53574, Destination Port: 443, Bytes transferred: 54
+2023-09-07 21:10:35,341 - INFO - Source IP: 192.168.1.6, Destination IP: 239.255.255.250, Protocol: UDP, Source Port: 38962, Destination Port: 1900, Bytes transferred: 54
+2023-09-07 21:10:35,446 - INFO - Source IP: 192.168.1.6, Destination IP: 239.255.255.250, Protocol: UDP, Source Port: 38962, Destination Port: 1900, Bytes transferred: 54
+2023-09-07 21:10:36,399 - INFO - Source IP: 52.139.250.209, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53216, Bytes transferred: 54
+2023-09-07 21:10:36,705 - INFO - Source IP: 192.168.1.14, Destination IP: 52.139.250.209, Protocol: TCP, Source Port: 53216, Destination Port: 443, Bytes transferred: 54
+2023-09-07 21:10:36,707 - INFO - Source IP: 52.139.250.209, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53216, Bytes transferred: 108
+2023-09-07 21:10:36,713 - INFO - Source IP: 192.168.1.14, Destination IP: 52.139.250.209, Protocol: TCP, Source Port: 53259, Destination Port: 443, Bytes transferred: 55
+2023-09-07 21:10:36,771 - INFO - Source IP: 192.168.1.6, Destination IP: 224.0.0.251, Protocol: UDP, Source Port: 5353, Destination Port: 5353, Bytes transferred: 55
+2023-09-07 21:10:36,771 - INFO - Source IP: 52.139.250.209, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53259, Bytes transferred: 66
+2023-09-07 21:10:38,136 - INFO - Source IP: 192.168.1.14, Destination IP: 152.195.38.76, Protocol: TCP, Source Port: 53613, Destination Port: 80, Bytes transferred: 54
+2023-09-07 21:10:38,298 - INFO - Source IP: 152.195.38.76, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 80, Destination Port: 53613, Bytes transferred: 54
+2023-09-07 21:10:38,429 - INFO - Source IP: 192.168.1.14, Destination IP: 152.195.38.76, Protocol: TCP, Source Port: 53613, Destination Port: 80, Bytes transferred: 108
+2023-09-07 21:10:38,445 - INFO - Source IP: 192.168.1.14, Destination IP: 216.239.32.116, Protocol: TCP, Source Port: 53673, Destination Port: 443, Bytes transferred: 66
+2023-09-07 21:10:38,454 - INFO - Source IP: 216.239.32.116, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53673, Bytes transferred: 66
+2023-09-07 21:10:38,461 - INFO - Source IP: 192.168.1.14, Destination IP: 216.239.32.116, Protocol: TCP, Source Port: 53673, Destination Port: 443, Bytes transferred: 120
+2023-09-07 21:10:38,469 - INFO - Source IP: 192.168.1.14, Destination IP: 216.239.32.116, Protocol: TCP, Source Port: 53673, Destination Port: 443, Bytes transferred: 691
+2023-09-07 21:10:38,477 - INFO - Source IP: 216.239.32.116, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53673, Bytes transferred: 120
+2023-09-07 21:10:38,527 - INFO - Suspiciously large data transfer detected on 216.239.32.116:443 -> 192.168.1.14:53673 (1586 bytes)
+2023-09-07 21:10:38,535 - INFO - Source IP: 216.239.32.116, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53673, Bytes transferred: 1586
+2023-09-07 21:10:38,551 - INFO - Suspiciously large data transfer detected on 216.239.32.116:443 -> 192.168.1.14:53673 (2284 bytes)
+2023-09-07 21:10:38,551 - INFO - Source IP: 216.239.32.116, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53673, Bytes transferred: 2284
+2023-09-07 21:10:38,551 - INFO - Source IP: 192.168.1.14, Destination IP: 216.239.32.116, Protocol: TCP, Source Port: 53673, Destination Port: 443, Bytes transferred: 757
+2023-09-07 21:10:38,568 - INFO - Source IP: 192.168.1.14, Destination IP: 216.239.32.116, Protocol: TCP, Source Port: 53673, Destination Port: 443, Bytes transferred: 823
+2023-09-07 21:10:38,575 - INFO - Suspiciously large data transfer detected on 216.239.32.116:443 -> 192.168.1.14:53673 (2982 bytes)
+2023-09-07 21:10:38,575 - INFO - Source IP: 216.239.32.116, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53673, Bytes transferred: 2982
+2023-09-07 21:10:38,584 - INFO - Source IP: 192.168.1.14, Destination IP: 216.239.32.116, Protocol: TCP, Source Port: 53673, Destination Port: 443, Bytes transferred: 897
+2023-09-07 21:10:38,591 - INFO - Suspiciously large data transfer detected on 216.239.32.116:443 -> 192.168.1.14:53673 (4448 bytes)
+2023-09-07 21:10:38,591 - INFO - Source IP: 216.239.32.116, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53673, Bytes transferred: 4448
+2023-09-07 21:10:38,599 - INFO - Suspiciously large data transfer detected on 216.239.32.116:443 -> 192.168.1.14:53673 (5914 bytes)
+2023-09-07 21:10:38,599 - INFO - Source IP: 216.239.32.116, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53673, Bytes transferred: 5914
+2023-09-07 21:10:38,607 - INFO - Source IP: 192.168.1.14, Destination IP: 216.239.32.116, Protocol: TCP, Source Port: 53673, Destination Port: 443, Bytes transferred: 951
+2023-09-07 21:10:38,615 - INFO - Suspiciously large data transfer detected on 192.168.1.14:53673 -> 216.239.32.116:443 (1079 bytes)
+2023-09-07 21:10:38,615 - INFO - Source IP: 192.168.1.14, Destination IP: 216.239.32.116, Protocol: TCP, Source Port: 53673, Destination Port: 443, Bytes transferred: 1079
+2023-09-07 21:10:38,623 - INFO - Suspiciously large data transfer detected on 192.168.1.14:53673 -> 216.239.32.116:443 (1231 bytes)
+2023-09-07 21:10:38,631 - INFO - Source IP: 192.168.1.14, Destination IP: 216.239.32.116, Protocol: TCP, Source Port: 53673, Destination Port: 443, Bytes transferred: 1231
+2023-09-07 21:10:38,633 - INFO - Suspiciously large data transfer detected on 192.168.1.14:53673 -> 216.239.32.116:443 (1593 bytes)
+2023-09-07 21:10:38,633 - INFO - Source IP: 192.168.1.14, Destination IP: 216.239.32.116, Protocol: TCP, Source Port: 53673, Destination Port: 443, Bytes transferred: 1593
+2023-09-07 21:10:38,633 - INFO - Suspiciously large data transfer detected on 216.239.32.116:443 -> 192.168.1.14:53673 (5968 bytes)
+2023-09-07 21:10:38,633 - INFO - Source IP: 216.239.32.116, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53673, Bytes transferred: 5968
+2023-09-07 21:10:38,633 - INFO - Suspiciously large data transfer detected on 216.239.32.116:443 -> 192.168.1.14:53673 (6022 bytes)
+2023-09-07 21:10:38,633 - INFO - Source IP: 216.239.32.116, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53673, Bytes transferred: 6022
+2023-09-07 21:10:38,640 - INFO - Suspiciously large data transfer detected on 216.239.32.116:443 -> 192.168.1.14:53673 (7038 bytes)
+2023-09-07 21:10:38,640 - INFO - Source IP: 216.239.32.116, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53673, Bytes transferred: 7038
+2023-09-07 21:10:38,640 - INFO - Suspiciously large data transfer detected on 216.239.32.116:443 -> 192.168.1.14:53673 (7123 bytes)
+2023-09-07 21:10:38,640 - INFO - Source IP: 216.239.32.116, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53673, Bytes transferred: 7123
+2023-09-07 21:10:38,648 - INFO - Suspiciously large data transfer detected on 192.168.1.14:53673 -> 216.239.32.116:443 (1647 bytes)
+2023-09-07 21:10:38,648 - INFO - Source IP: 192.168.1.14, Destination IP: 216.239.32.116, Protocol: TCP, Source Port: 53673, Destination Port: 443, Bytes transferred: 1647
+2023-09-07 21:10:38,648 - INFO - Suspiciously large data transfer detected on 192.168.1.14:53673 -> 216.239.32.116:443 (1732 bytes)
+2023-09-07 21:10:38,648 - INFO - Source IP: 192.168.1.14, Destination IP: 216.239.32.116, Protocol: TCP, Source Port: 53673, Destination Port: 443, Bytes transferred: 1732
+2023-09-07 21:17:48,368 - INFO - Source IP: 192.168.1.14, Destination IP: 44.194.2.53, Protocol: TCP, Source Port: 53742, Destination Port: 443, Bytes transferred: 55
+2023-09-07 21:17:48,787 - INFO - Source IP: 44.194.2.53, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53742, Bytes transferred: 66
+2023-09-07 21:17:49,945 - INFO - Source IP: 192.168.1.6, Destination IP: 239.255.255.250, Protocol: UDP, Source Port: 39247, Destination Port: 1900, Bytes transferred: 66
+2023-09-07 21:17:50,200 - INFO - Source IP: 54.243.104.149, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53747, Bytes transferred: 54
+2023-09-07 21:17:50,208 - INFO - Source IP: 192.168.1.14, Destination IP: 54.243.104.149, Protocol: TCP, Source Port: 53747, Destination Port: 443, Bytes transferred: 54
+2023-09-07 21:17:50,222 - INFO - Source IP: 54.243.104.149, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53748, Bytes transferred: 54
+2023-09-07 21:17:50,316 - INFO - Source IP: 192.168.1.14, Destination IP: 54.243.104.149, Protocol: TCP, Source Port: 53748, Destination Port: 443, Bytes transferred: 54
+2023-09-07 21:17:50,318 - INFO - Source IP: 54.159.27.15, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53703, Bytes transferred: 54
+2023-09-07 21:17:52,305 - INFO - Source IP: 192.168.1.14, Destination IP: 54.159.27.15, Protocol: TCP, Source Port: 53703, Destination Port: 443, Bytes transferred: 54
+2023-09-07 21:17:52,307 - INFO - Source IP: 13.200.132.233, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53620, Bytes transferred: 54
+2023-09-07 21:17:55,093 - INFO - Source IP: 192.168.1.14, Destination IP: 13.200.132.233, Protocol: TCP, Source Port: 53620, Destination Port: 443, Bytes transferred: 54
+2023-09-07 21:17:55,097 - INFO - Source IP: 192.168.1.14, Destination IP: 54.243.104.149, Protocol: TCP, Source Port: 53748, Destination Port: 443, Bytes transferred: 108
+2023-09-07 21:17:55,348 - INFO - Source IP: 192.168.1.14, Destination IP: 44.194.2.53, Protocol: TCP, Source Port: 53742, Destination Port: 443, Bytes transferred: 109
+2023-09-07 21:17:55,348 - INFO - Source IP: 192.168.1.14, Destination IP: 44.194.2.53, Protocol: TCP, Source Port: 53740, Destination Port: 443, Bytes transferred: 54
+2023-09-07 21:17:55,363 - INFO - Source IP: 192.168.1.14, Destination IP: 54.243.104.149, Protocol: TCP, Source Port: 53747, Destination Port: 443, Bytes transferred: 108
+2023-09-07 21:17:55,372 - INFO - Source IP: 44.194.2.53, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53740, Bytes transferred: 54
+2023-09-07 21:17:55,407 - INFO - Source IP: 192.168.1.14, Destination IP: 44.194.2.53, Protocol: TCP, Source Port: 53740, Destination Port: 443, Bytes transferred: 108
+2023-09-07 21:17:55,413 - INFO - Source IP: 44.194.2.53, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53742, Bytes transferred: 120
+2023-09-07 21:17:55,420 - INFO - Source IP: 192.168.1.14, Destination IP: 44.194.2.53, Protocol: TCP, Source Port: 53742, Destination Port: 443, Bytes transferred: 163
+2023-09-07 21:17:55,420 - INFO - Source IP: 54.243.104.149, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53748, Bytes transferred: 108
+2023-09-07 21:17:55,420 - INFO - Source IP: 54.243.104.149, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53747, Bytes transferred: 108
+2023-09-07 21:17:55,420 - INFO - Source IP: 192.168.1.14, Destination IP: 54.243.104.149, Protocol: TCP, Source Port: 53748, Destination Port: 443, Bytes transferred: 162
+2023-09-07 21:17:55,420 - INFO - Source IP: 192.168.1.14, Destination IP: 54.243.104.149, Protocol: TCP, Source Port: 53747, Destination Port: 443, Bytes transferred: 162
+2023-09-07 21:17:55,436 - INFO - Source IP: 192.168.1.14, Destination IP: 20.189.173.10, Protocol: TCP, Source Port: 53758, Destination Port: 443, Bytes transferred: 66
+2023-09-07 21:17:55,641 - INFO - Source IP: 20.189.173.10, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53758, Bytes transferred: 66
+2023-09-07 21:17:55,643 - INFO - Source IP: 192.168.1.14, Destination IP: 20.189.173.10, Protocol: TCP, Source Port: 53758, Destination Port: 443, Bytes transferred: 120
+2023-09-07 21:17:55,643 - INFO - Source IP: 192.168.1.14, Destination IP: 20.189.173.10, Protocol: TCP, Source Port: 53758, Destination Port: 443, Bytes transferred: 401
+2023-09-07 21:17:56,043 - INFO - Suspiciously large data transfer detected on 20.189.173.10:443 -> 192.168.1.14:53758 (1532 bytes)
+2023-09-07 21:17:56,043 - INFO - Source IP: 20.189.173.10, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53758, Bytes transferred: 1532
+2023-09-07 21:17:56,048 - INFO - Suspiciously large data transfer detected on 20.189.173.10:443 -> 192.168.1.14:53758 (2998 bytes)
+2023-09-07 21:17:56,048 - INFO - Source IP: 20.189.173.10, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53758, Bytes transferred: 2998
+2023-09-07 21:17:56,053 - INFO - Suspiciously large data transfer detected on 20.189.173.10:443 -> 192.168.1.14:53758 (4464 bytes)
+2023-09-07 21:17:56,053 - INFO - Source IP: 20.189.173.10, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53758, Bytes transferred: 4464
+2023-09-07 21:17:56,061 - INFO - Suspiciously large data transfer detected on 20.189.173.10:443 -> 192.168.1.14:53758 (5930 bytes)
+2023-09-07 21:17:56,061 - INFO - Source IP: 20.189.173.10, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53758, Bytes transferred: 5930
+2023-09-07 21:17:56,061 - INFO - Suspiciously large data transfer detected on 20.189.173.10:443 -> 192.168.1.14:53758 (6631 bytes)
+2023-09-07 21:17:56,069 - INFO - Source IP: 20.189.173.10, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53758, Bytes transferred: 6631
+2023-09-07 21:17:56,072 - INFO - Source IP: 192.168.1.14, Destination IP: 20.189.173.10, Protocol: TCP, Source Port: 53758, Destination Port: 443, Bytes transferred: 455
+2023-09-07 21:17:56,072 - INFO - Source IP: 192.168.1.14, Destination IP: 20.189.173.10, Protocol: TCP, Source Port: 53758, Destination Port: 443, Bytes transferred: 667
+2023-09-07 21:17:56,300 - INFO - Suspiciously large data transfer detected on 20.189.173.10:443 -> 192.168.1.14:53758 (6736 bytes)
+2023-09-07 21:17:56,301 - INFO - Source IP: 20.189.173.10, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53758, Bytes transferred: 6736
+2023-09-07 21:17:56,311 - INFO - Source IP: 192.168.1.14, Destination IP: 20.189.173.10, Protocol: TCP, Source Port: 53758, Destination Port: 443, Bytes transferred: 721
+2023-09-07 21:17:56,319 - INFO - Suspiciously large data transfer detected on 192.168.1.14:53758 -> 20.189.173.10:443 (1707 bytes)
+2023-09-07 21:17:56,319 - INFO - Source IP: 192.168.1.14, Destination IP: 20.189.173.10, Protocol: TCP, Source Port: 53758, Destination Port: 443, Bytes transferred: 1707
+2023-09-07 21:17:56,522 - INFO - Suspiciously large data transfer detected on 192.168.1.14:53758 -> 20.189.173.10:443 (5455 bytes)
+2023-09-07 21:17:56,522 - INFO - Source IP: 192.168.1.14, Destination IP: 20.189.173.10, Protocol: TCP, Source Port: 53758, Destination Port: 443, Bytes transferred: 5455
+2023-09-07 21:17:56,532 - INFO - Suspiciously large data transfer detected on 20.189.173.10:443 -> 192.168.1.14:53758 (6790 bytes)
+2023-09-07 21:17:56,535 - INFO - Source IP: 20.189.173.10, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53758, Bytes transferred: 6790
+2023-09-07 21:17:56,537 - INFO - Suspiciously large data transfer detected on 20.189.173.10:443 -> 192.168.1.14:53758 (6844 bytes)
+2023-09-07 21:17:56,537 - INFO - Source IP: 20.189.173.10, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53758, Bytes transferred: 6844
+2023-09-07 21:17:56,561 - INFO - Suspiciously large data transfer detected on 20.189.173.10:443 -> 192.168.1.14:53758 (7352 bytes)
+2023-09-07 21:17:56,561 - INFO - Source IP: 20.189.173.10, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53758, Bytes transferred: 7352
+2023-09-07 21:17:57,890 - INFO - Suspiciously large data transfer detected on 192.168.1.14:53758 -> 20.189.173.10:443 (5509 bytes)
+2023-09-07 21:17:57,891 - INFO - Source IP: 192.168.1.14, Destination IP: 20.189.173.10, Protocol: TCP, Source Port: 53758, Destination Port: 443, Bytes transferred: 5509
+2023-09-07 21:34:17,397 - INFO - Source IP: 20.189.173.4, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53931, Bytes transferred: 486
+2023-09-07 21:34:17,401 - INFO - Source IP: 192.168.1.14, Destination IP: 20.189.173.4, Protocol: TCP, Source Port: 53931, Destination Port: 443, Bytes transferred: 54
+2023-09-07 21:34:17,401 - INFO - Source IP: 192.168.1.14, Destination IP: 20.189.173.4, Protocol: TCP, Source Port: 53931, Destination Port: 443, Bytes transferred: 139
+2023-09-07 21:34:17,401 - INFO - Source IP: 192.168.1.14, Destination IP: 20.189.173.4, Protocol: TCP, Source Port: 53931, Destination Port: 443, Bytes transferred: 193
+2023-09-07 21:34:17,409 - INFO - Source IP: 192.168.1.6, Destination IP: 239.255.255.250, Protocol: UDP, Source Port: 53410, Destination Port: 1900, Bytes transferred: 193
+2023-09-07 21:34:17,533 - INFO - Source IP: 192.168.1.14, Destination IP: 224.0.0.251, Protocol: UDP, Source Port: 5353, Destination Port: 5353, Bytes transferred: 193
+2023-09-07 21:34:17,640 - INFO - Source IP: 20.189.173.4, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53931, Bytes transferred: 540
+2023-09-07 21:34:18,587 - INFO - Source IP: 20.198.118.190, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 52261, Bytes transferred: 54
+2023-09-07 21:34:18,911 - INFO - Source IP: 20.198.118.190, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 52261, Bytes transferred: 108
+2023-09-07 21:34:18,924 - INFO - Source IP: 192.168.1.14, Destination IP: 20.198.118.190, Protocol: TCP, Source Port: 52261, Destination Port: 443, Bytes transferred: 54
+2023-09-07 21:34:18,924 - INFO - Source IP: 192.168.1.6, Destination IP: 224.0.0.251, Protocol: UDP, Source Port: 5353, Destination Port: 5353, Bytes transferred: 54
+2023-09-07 21:34:19,995 - INFO - Source IP: 192.168.1.14, Destination IP: 18.205.100.110, Protocol: TCP, Source Port: 53932, Destination Port: 443, Bytes transferred: 66
+2023-09-07 21:34:20,048 - INFO - Source IP: 192.168.1.6, Destination IP: 224.0.0.251, Protocol: UDP, Source Port: 5353, Destination Port: 5353, Bytes transferred: 66
+2023-09-07 21:34:20,111 - INFO - Source IP: 192.168.1.6, Destination IP: 224.0.0.251, Protocol: UDP, Source Port: 5353, Destination Port: 5353, Bytes transferred: 66
+2023-09-07 21:34:20,112 - INFO - Source IP: 192.168.1.6, Destination IP: 239.255.255.250, Protocol: UDP, Source Port: 53410, Destination Port: 1900, Bytes transferred: 66
+2023-09-07 21:34:20,261 - INFO - Source IP: 18.205.100.110, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53932, Bytes transferred: 66
+2023-09-07 21:34:20,262 - INFO - Source IP: 192.168.1.14, Destination IP: 18.205.100.110, Protocol: TCP, Source Port: 53932, Destination Port: 443, Bytes transferred: 120
+2023-09-07 21:34:20,262 - INFO - Source IP: 192.168.1.14, Destination IP: 18.205.100.110, Protocol: TCP, Source Port: 53933, Destination Port: 443, Bytes transferred: 66
+2023-09-07 21:34:20,307 - INFO - Source IP: 192.168.1.14, Destination IP: 18.205.100.110, Protocol: TCP, Source Port: 53932, Destination Port: 443, Bytes transferred: 859
+2023-09-07 21:34:20,312 - INFO - Source IP: 192.168.1.14, Destination IP: 18.205.100.110, Protocol: TCP, Source Port: 53934, Destination Port: 443, Bytes transferred: 66
+2023-09-07 21:57:37,086 - INFO - Source IP: 52.139.250.209, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53810, Bytes transferred: 54
+2023-09-07 21:57:37,086 - INFO - Source IP: 192.168.1.14, Destination IP: 52.139.250.209, Protocol: TCP, Source Port: 53810, Destination Port: 443, Bytes transferred: 54
+2023-09-07 21:57:37,086 - INFO - Source IP: 52.139.250.209, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53810, Bytes transferred: 108
+2023-09-07 21:57:40,946 - INFO - Source IP: 52.139.250.209, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 53808, Bytes transferred: 54
+2023-09-07 21:57:42,066 - INFO - Source IP: 192.168.1.14, Destination IP: 52.139.250.209, Protocol: TCP, Source Port: 53808, Destination Port: 443, Bytes transferred: 54
+2023-09-07 21:58:30,825 - INFO - Source IP: 23.212.252.34, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 54062, Bytes transferred: 54
+2023-09-07 21:58:30,857 - INFO - Source IP: 192.168.1.14, Destination IP: 23.212.252.34, Protocol: TCP, Source Port: 54062, Destination Port: 443, Bytes transferred: 54
+2023-09-07 21:58:30,857 - INFO - Source IP: 204.79.197.203, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 54063, Bytes transferred: 54
+2023-09-07 21:58:34,583 - INFO - Source IP: 23.212.252.34, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 54064, Bytes transferred: 54
+2023-09-07 21:58:34,583 - INFO - Source IP: 192.168.1.14, Destination IP: 204.79.197.203, Protocol: TCP, Source Port: 54063, Destination Port: 443, Bytes transferred: 54
+2023-09-07 21:58:34,583 - INFO - Source IP: 192.168.1.14, Destination IP: 23.212.252.34, Protocol: TCP, Source Port: 54064, Destination Port: 443, Bytes transferred: 54
+2023-09-07 21:58:34,590 - INFO - WARNING:Suspiciously large data transfer detected on 204.79.197.203:443 -> 192.168.1.14:54063 (108 bytes)
+2023-09-07 22:02:57,389 - INFO - Source IP: 54.69.176.120, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 54131, Bytes transferred: 54
+2023-09-07 22:02:57,396 - INFO - WARNING:Suspiciously large data transfer detected on 54.69.176.120:443 -> 192.168.1.14:54131 (1520 bytes)
+2023-09-07 22:21:35,023 - INFO - Source IP: 192.168.1.14, Destination IP: 52.139.250.209, Protocol: TCP, Source Port: 54389, Destination Port: 443, Bytes transferred: 66
+2023-09-07 22:21:35,087 - INFO - Source IP: 52.139.250.209, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 54389, Bytes transferred: 66
+2023-09-07 22:21:35,099 - INFO - Source IP: 192.168.1.14, Destination IP: 52.139.250.209, Protocol: TCP, Source Port: 54389, Destination Port: 443, Bytes transferred: 120
+2023-09-07 22:21:35,107 - INFO - Source IP: 192.168.1.14, Destination IP: 52.139.250.209, Protocol: TCP, Source Port: 54389, Destination Port: 443, Bytes transferred: 917
+2023-09-07 22:21:35,111 - INFO - Source IP: 52.139.250.209, Destination IP: 192.168.1.14, Protocol: TCP, Source Port: 443, Destination Port: 54389, Bytes transferred: 120

@@ -1,0 +1,90 @@
+2023-11-04 11:10:26,305 - INFO - DNS Traffic Detected: 192.168.16.224:28365 -> 192.168.16.156:53
+2023-11-04 11:11:11,238 - INFO - Source IP: 192.168.16.224, Destination IP: 64.233.170.188, Protocol: TCP, Source Port: 61568, Destination Port: 5228, Bytes transferred: 54
+2023-11-04 11:11:11,337 - INFO - Source IP: 64.233.170.188, Destination IP: 192.168.16.224, Protocol: TCP, Source Port: 5228, Destination Port: 61568, Bytes transferred: 66
+2023-11-04 11:33:28,717 - INFO - Source IP: 192.168.16.224, Destination IP: 74.125.24.188, Protocol: TCP, Source Port: 61874, Destination Port: 5228, Bytes transferred: 54
+2023-11-04 11:33:28,802 - INFO - Source IP: 74.125.24.188, Destination IP: 192.168.16.224, Protocol: TCP, Source Port: 5228, Destination Port: 61874, Bytes transferred: 66
+2023-11-04 11:33:30,479 - INFO - Source IP: 192.168.16.224, Destination IP: 142.250.134.127, Protocol: UDP, Source Port: 64627, Destination Port: 19302, Bytes transferred: 66
+2023-11-04 11:33:30,499 - INFO - Source IP: 142.250.134.127, Destination IP: 192.168.16.224, Protocol: UDP, Source Port: 19302, Destination Port: 64627, Bytes transferred: 66
+2023-11-04 11:34:09,509 - INFO - Source IP: 192.168.16.224, Destination IP: 239.255.255.250, Protocol: UDP, Source Port: 53226, Destination Port: 1900, Bytes transferred: 66
+2023-11-04 11:34:10,507 - INFO - Source IP: 192.168.16.224, Destination IP: 239.255.255.250, Protocol: UDP, Source Port: 53226, Destination Port: 1900, Bytes transferred: 66
+2023-11-04 11:34:11,508 - INFO - Source IP: 192.168.16.224, Destination IP: 239.255.255.250, Protocol: UDP, Source Port: 53226, Destination Port: 1900, Bytes transferred: 66
+2023-11-04 11:34:12,513 - INFO - Source IP: 192.168.16.224, Destination IP: 239.255.255.250, Protocol: UDP, Source Port: 53226, Destination Port: 1900, Bytes transferred: 66
+2023-11-04 11:34:20,165 - INFO - DNS Traffic Detected: 192.168.16.224:16706 -> 192.168.16.156:53
+2023-11-04 11:34:20,165 - INFO - Source IP: 192.168.16.224, Destination IP: 192.168.16.156, Protocol: UDP, Source Port: 16706, Destination Port: 53, Bytes transferred: 66
+2023-11-04 11:34:20,166 - INFO - DNS Traffic Detected: 192.168.16.224:4091 -> 192.168.16.156:53
+2023-11-04 11:34:20,166 - INFO - Source IP: 192.168.16.224, Destination IP: 192.168.16.156, Protocol: UDP, Source Port: 4091, Destination Port: 53, Bytes transferred: 66
+2023-11-04 11:34:20,166 - INFO - DNS Traffic Detected: 192.168.16.224:65474 -> 192.168.16.156:53
+2023-11-04 11:34:20,167 - INFO - Source IP: 192.168.16.224, Destination IP: 192.168.16.156, Protocol: UDP, Source Port: 65474, Destination Port: 53, Bytes transferred: 66
+2023-11-04 11:34:20,175 - INFO - Source IP: 192.168.16.156, Destination IP: 192.168.16.224, Protocol: UDP, Source Port: 53, Destination Port: 16706, Bytes transferred: 66
+2023-11-04 11:34:20,176 - INFO - Source IP: 192.168.16.156, Destination IP: 192.168.16.224, Protocol: UDP, Source Port: 53, Destination Port: 4091, Bytes transferred: 66
+2023-11-04 11:34:20,249 - INFO - Source IP: 192.168.16.156, Destination IP: 192.168.16.224, Protocol: UDP, Source Port: 53, Destination Port: 65474, Bytes transferred: 66
+2023-11-04 11:34:20,251 - INFO - Source IP: 192.168.16.224, Destination IP: 192.168.16.156, Protocol: ICMP, Source Port: N/A, Destination Port: N/A, Bytes transferred: 66
+2023-11-04 11:34:28,820 - INFO - Source IP: 192.168.16.224, Destination IP: 74.125.24.188, Protocol: TCP, Source Port: 61874, Destination Port: 5228, Bytes transferred: 108
+2023-11-04 11:34:28,905 - INFO - Source IP: 74.125.24.188, Destination IP: 192.168.16.224, Protocol: TCP, Source Port: 5228, Destination Port: 61874, Bytes transferred: 132
+2023-11-04 11:35:13,142 - INFO - DNS Traffic Detected: 192.168.16.224:55653 -> 192.168.16.156:53
+2023-11-04 11:35:13,143 - INFO - Source IP: 192.168.16.224, Destination IP: 192.168.16.156, Protocol: UDP, Source Port: 55653, Destination Port: 53, Bytes transferred: 132
+2023-11-04 11:35:13,145 - INFO - DNS Traffic Detected: 192.168.16.224:47800 -> 192.168.16.156:53
+2023-11-04 11:35:13,146 - INFO - Source IP: 192.168.16.224, Destination IP: 192.168.16.156, Protocol: UDP, Source Port: 47800, Destination Port: 53, Bytes transferred: 132
+2023-11-04 11:35:13,147 - INFO - DNS Traffic Detected: 192.168.16.224:62346 -> 192.168.16.156:53
+2023-11-04 11:35:13,147 - INFO - Source IP: 192.168.16.224, Destination IP: 192.168.16.156, Protocol: UDP, Source Port: 62346, Destination Port: 53, Bytes transferred: 132
+2023-11-04 11:35:13,148 - INFO - DNS Traffic Detected: 192.168.16.224:56724 -> 192.168.16.156:53
+2023-11-04 11:35:13,148 - INFO - Source IP: 192.168.16.224, Destination IP: 192.168.16.156, Protocol: UDP, Source Port: 56724, Destination Port: 53, Bytes transferred: 132
+2023-11-04 11:35:13,149 - INFO - DNS Traffic Detected: 192.168.16.224:53670 -> 192.168.16.156:53
+2023-11-04 11:35:13,149 - INFO - Source IP: 192.168.16.224, Destination IP: 192.168.16.156, Protocol: UDP, Source Port: 53670, Destination Port: 53, Bytes transferred: 132
+2023-11-04 11:35:13,149 - INFO - DNS Traffic Detected: 192.168.16.224:3459 -> 192.168.16.156:53
+2023-11-04 11:35:13,150 - INFO - Source IP: 192.168.16.224, Destination IP: 192.168.16.156, Protocol: UDP, Source Port: 3459, Destination Port: 53, Bytes transferred: 132
+2023-11-04 11:35:13,150 - INFO - DNS Traffic Detected: 192.168.16.224:26143 -> 192.168.16.156:53
+2023-11-04 11:35:13,150 - INFO - Source IP: 192.168.16.224, Destination IP: 192.168.16.156, Protocol: UDP, Source Port: 26143, Destination Port: 53, Bytes transferred: 132
+2023-11-04 11:35:13,150 - INFO - DNS Traffic Detected: 192.168.16.224:41666 -> 192.168.16.156:53
+2023-11-04 11:35:13,150 - INFO - Source IP: 192.168.16.224, Destination IP: 192.168.16.156, Protocol: UDP, Source Port: 41666, Destination Port: 53, Bytes transferred: 132
+2023-11-04 11:35:13,150 - INFO - DNS Traffic Detected: 192.168.16.224:50850 -> 192.168.16.156:53
+2023-11-04 11:35:13,150 - INFO - Source IP: 192.168.16.224, Destination IP: 192.168.16.156, Protocol: UDP, Source Port: 50850, Destination Port: 53, Bytes transferred: 132
+2023-11-04 11:35:13,174 - INFO - Source IP: 192.168.16.156, Destination IP: 192.168.16.224, Protocol: UDP, Source Port: 53, Destination Port: 53670, Bytes transferred: 132
+2023-11-04 11:35:13,179 - INFO - Source IP: 192.168.16.156, Destination IP: 192.168.16.224, Protocol: UDP, Source Port: 53, Destination Port: 47800, Bytes transferred: 132
+2023-11-04 11:35:13,180 - INFO - Source IP: 192.168.16.156, Destination IP: 192.168.16.224, Protocol: UDP, Source Port: 53, Destination Port: 62346, Bytes transferred: 132
+2023-11-04 11:35:13,181 - INFO - Source IP: 192.168.16.156, Destination IP: 192.168.16.224, Protocol: UDP, Source Port: 53, Destination Port: 50850, Bytes transferred: 132
+2023-11-04 11:35:13,182 - INFO - Source IP: 192.168.16.156, Destination IP: 192.168.16.224, Protocol: UDP, Source Port: 53, Destination Port: 55653, Bytes transferred: 132
+2023-11-04 11:35:13,182 - INFO - Source IP: 192.168.16.156, Destination IP: 192.168.16.224, Protocol: UDP, Source Port: 53, Destination Port: 56724, Bytes transferred: 132
+2023-11-04 11:35:13,186 - INFO - Source IP: 192.168.16.156, Destination IP: 192.168.16.224, Protocol: UDP, Source Port: 53, Destination Port: 3459, Bytes transferred: 132
+2023-11-04 11:35:13,187 - INFO - Source IP: 192.168.16.156, Destination IP: 192.168.16.224, Protocol: UDP, Source Port: 53, Destination Port: 26143, Bytes transferred: 132
+2023-11-04 11:35:13,187 - INFO - Source IP: 192.168.16.156, Destination IP: 192.168.16.224, Protocol: UDP, Source Port: 53, Destination Port: 41666, Bytes transferred: 132
+2023-11-04 11:35:42,436 - INFO - Source IP: 192.168.16.224, Destination IP: 140.82.113.21, Protocol: TCP, Source Port: 61904, Destination Port: 443, Bytes transferred: 78
+2023-11-04 11:35:42,864 - INFO - Source IP: 140.82.113.21, Destination IP: 192.168.16.224, Protocol: TCP, Source Port: 443, Destination Port: 61904, Bytes transferred: 74
+2023-11-04 11:35:42,866 - INFO - Source IP: 192.168.16.224, Destination IP: 140.82.113.21, Protocol: TCP, Source Port: 61904, Destination Port: 443, Bytes transferred: 144
+2023-11-04 11:35:42,867 - INFO - Source IP: 192.168.16.224, Destination IP: 140.82.113.21, Protocol: TCP, Source Port: 61904, Destination Port: 443, Bytes transferred: 727
+2023-11-04 11:35:43,172 - INFO - Source IP: 140.82.113.21, Destination IP: 192.168.16.224, Protocol: TCP, Source Port: 443, Destination Port: 61904, Bytes transferred: 1408
+2023-11-04 11:35:43,173 - INFO - Source IP: 140.82.113.21, Destination IP: 192.168.16.224, Protocol: TCP, Source Port: 443, Destination Port: 61904, Bytes transferred: 2742
+2023-11-04 11:35:43,174 - INFO - Source IP: 140.82.113.21, Destination IP: 192.168.16.224, Protocol: TCP, Source Port: 443, Destination Port: 61904, Bytes transferred: 3844
+2023-11-04 11:35:43,175 - INFO - Source IP: 192.168.16.224, Destination IP: 140.82.113.21, Protocol: TCP, Source Port: 61904, Destination Port: 443, Bytes transferred: 793
+2023-11-04 11:35:43,175 - INFO - Source IP: 192.168.16.224, Destination IP: 140.82.113.21, Protocol: TCP, Source Port: 61904, Destination Port: 443, Bytes transferred: 859
+2023-11-04 11:35:43,176 - INFO - Source IP: 192.168.16.224, Destination IP: 140.82.113.21, Protocol: TCP, Source Port: 61904, Destination Port: 443, Bytes transferred: 2213
+2023-11-04 11:35:43,176 - INFO - Source IP: 192.168.16.224, Destination IP: 140.82.113.21, Protocol: TCP, Source Port: 61904, Destination Port: 443, Bytes transferred: 3567
+2023-11-04 11:35:43,177 - INFO - Source IP: 192.168.16.224, Destination IP: 140.82.113.21, Protocol: TCP, Source Port: 61904, Destination Port: 443, Bytes transferred: 3796
+2023-11-04 11:35:43,479 - INFO - Source IP: 140.82.113.21, Destination IP: 192.168.16.224, Protocol: TCP, Source Port: 443, Destination Port: 61904, Bytes transferred: 3910
+2023-11-04 11:35:43,480 - INFO - Source IP: 140.82.113.21, Destination IP: 192.168.16.224, Protocol: TCP, Source Port: 443, Destination Port: 61904, Bytes transferred: 4055
+2023-11-04 11:35:43,481 - INFO - Source IP: 140.82.113.21, Destination IP: 192.168.16.224, Protocol: TCP, Source Port: 443, Destination Port: 61904, Bytes transferred: 4200
+2023-11-04 11:35:43,483 - INFO - Source IP: 192.168.16.224, Destination IP: 140.82.113.21, Protocol: TCP, Source Port: 61904, Destination Port: 443, Bytes transferred: 3862
+2023-11-04 11:35:43,889 - INFO - Source IP: 140.82.113.21, Destination IP: 192.168.16.224, Protocol: TCP, Source Port: 443, Destination Port: 61904, Bytes transferred: 5054
+2023-11-04 11:35:43,890 - INFO - Source IP: 140.82.113.21, Destination IP: 192.168.16.224, Protocol: TCP, Source Port: 443, Destination Port: 61904, Bytes transferred: 5144
+2023-11-04 11:35:43,890 - INFO - Source IP: 140.82.113.21, Destination IP: 192.168.16.224, Protocol: TCP, Source Port: 443, Destination Port: 61904, Bytes transferred: 5210
+2023-11-04 11:35:43,891 - INFO - Source IP: 192.168.16.224, Destination IP: 140.82.113.21, Protocol: TCP, Source Port: 61904, Destination Port: 443, Bytes transferred: 3928
+2023-11-04 11:36:00,174 - INFO - Source IP: 20.74.18.95, Destination IP: 192.168.16.224, Protocol: TCP, Source Port: 443, Destination Port: 61903, Bytes transferred: 66
+2023-11-04 11:36:00,176 - INFO - Source IP: 192.168.16.224, Destination IP: 20.74.18.95, Protocol: TCP, Source Port: 61903, Destination Port: 443, Bytes transferred: 66
+2023-11-04 11:36:09,510 - INFO - Source IP: 192.168.16.224, Destination IP: 239.255.255.250, Protocol: UDP, Source Port: 55200, Destination Port: 1900, Bytes transferred: 66
+2023-11-04 11:36:10,510 - INFO - Source IP: 192.168.16.224, Destination IP: 239.255.255.250, Protocol: UDP, Source Port: 55200, Destination Port: 1900, Bytes transferred: 66
+2023-11-04 11:36:11,514 - INFO - Source IP: 192.168.16.224, Destination IP: 239.255.255.250, Protocol: UDP, Source Port: 55200, Destination Port: 1900, Bytes transferred: 66
+2023-11-04 11:36:12,519 - INFO - Source IP: 192.168.16.224, Destination IP: 239.255.255.250, Protocol: UDP, Source Port: 55200, Destination Port: 1900, Bytes transferred: 66
+2023-11-04 11:36:15,326 - INFO - Source IP: 20.74.18.95, Destination IP: 192.168.16.224, Protocol: TCP, Source Port: 443, Destination Port: 61903, Bytes transferred: 132
+2023-11-04 11:36:15,327 - INFO - Source IP: 192.168.16.224, Destination IP: 20.74.18.95, Protocol: TCP, Source Port: 61903, Destination Port: 443, Bytes transferred: 132
+2023-11-04 11:36:28,990 - INFO - Source IP: 192.168.16.224, Destination IP: 74.125.24.188, Protocol: TCP, Source Port: 61874, Destination Port: 5228, Bytes transferred: 54
+2023-11-04 11:36:29,074 - INFO - Source IP: 74.125.24.188, Destination IP: 192.168.16.224, Protocol: TCP, Source Port: 5228, Destination Port: 61874, Bytes transferred: 66
+2023-11-04 11:36:30,512 - INFO - Source IP: 20.74.18.95, Destination IP: 192.168.16.224, Protocol: TCP, Source Port: 443, Destination Port: 61903, Bytes transferred: 198
+2023-11-04 11:36:30,513 - INFO - Source IP: 192.168.16.224, Destination IP: 20.74.18.95, Protocol: TCP, Source Port: 61903, Destination Port: 443, Bytes transferred: 198
+2023-11-04 11:36:45,739 - INFO - Source IP: 20.74.18.95, Destination IP: 192.168.16.224, Protocol: TCP, Source Port: 443, Destination Port: 61903, Bytes transferred: 264
+2023-11-04 11:36:45,740 - INFO - Source IP: 192.168.16.224, Destination IP: 20.74.18.95, Protocol: TCP, Source Port: 61903, Destination Port: 443, Bytes transferred: 264
+2023-11-04 11:37:00,898 - INFO - Source IP: 20.74.18.95, Destination IP: 192.168.16.224, Protocol: TCP, Source Port: 443, Destination Port: 61903, Bytes transferred: 330
+2023-11-04 11:37:00,899 - INFO - Source IP: 192.168.16.224, Destination IP: 20.74.18.95, Protocol: TCP, Source Port: 61903, Destination Port: 443, Bytes transferred: 330
+2023-11-04 11:37:16,154 - INFO - Source IP: 20.74.18.95, Destination IP: 192.168.16.224, Protocol: TCP, Source Port: 443, Destination Port: 61903, Bytes transferred: 396
+2023-11-04 11:37:16,155 - INFO - Source IP: 192.168.16.224, Destination IP: 20.74.18.95, Protocol: TCP, Source Port: 61903, Destination Port: 443, Bytes transferred: 396
+2023-11-04 11:37:29,076 - INFO - Source IP: 192.168.16.224, Destination IP: 74.125.24.188, Protocol: TCP, Source Port: 61874, Destination Port: 5228, Bytes transferred: 108
+2023-11-04 11:37:29,147 - INFO - Source IP: 74.125.24.188, Destination IP: 192.168.16.224, Protocol: TCP, Source Port: 5228, Destination Port: 61874, Bytes transferred: 132
